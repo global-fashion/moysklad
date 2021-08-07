@@ -17,7 +17,6 @@ class ProfitReportQuerySpecs extends QuerySpecs {
         $res['product.id'] = null;
         $res['counterparty.id'] = null;
         $res['organization.id'] = null;
-        $res['store.id'] = null;
         $res['project.id'] = null;
         $res['retailStore.id'] = null;
         return $res;
