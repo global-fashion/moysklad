@@ -10,7 +10,7 @@ class CustomerOrderQuerySpecs extends QuerySpecs {
     public function getDefaults()
     {
         $res = parent::getDefaults();
-        $res['store'] = null;
+        $res['store.id'] = null;
         return $res;
     }
 }
