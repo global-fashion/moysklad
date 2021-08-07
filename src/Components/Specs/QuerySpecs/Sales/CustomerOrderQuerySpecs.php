@@ -1,6 +1,6 @@
 <?php
 
-namespace MoySklad\Components\Specs\QuerySpecs\Reports;
+namespace MoySklad\Components\Specs\QuerySpecs\Sales;
 
 
 use MoySklad\Components\Specs\QuerySpecs\QuerySpecs;
