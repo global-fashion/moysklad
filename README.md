@@ -1,7 +1,5 @@
 ## Moysklad PHP
 
-[![SensioLabsInsight](https://insight.sensiolabs.com/projects/55ec86f9-d527-4bb7-8e4e-cdc30269728b/small.png)](https://insight.sensiolabs.com/projects/55ec86f9-d527-4bb7-8e4e-cdc30269728b)
-
 Библиотека для сервиса "Мой склад" JSON API 1.1. Некоторые примеры можно найти в "tests". Все ещё далека от завершения.
 
 ## Установка<br />
