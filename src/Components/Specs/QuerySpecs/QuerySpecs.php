@@ -31,6 +31,9 @@ class QuerySpecs extends AbstractSpecs {
             "updatedTo" => null,
             "updatedBy" => null,
             "order" => null,
+            "name" => null,
+            "code" => null,
+            "externalCode" => null,
         ];
     }
 
